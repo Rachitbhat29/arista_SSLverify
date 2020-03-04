@@ -1,4 +1,4 @@
-# arista_SSLverify
+# SSLverify
 Demo project for SSL certificate verify
 
 Verrify SSL certificate over HTTP
